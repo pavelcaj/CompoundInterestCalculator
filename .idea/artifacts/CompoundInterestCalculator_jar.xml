@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="CompoundInterestCalculator:jar">
+  <artifact type="jar" name="CompoundInterestCalculator:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/CompoundInterestCalculator_jar</output-path>
     <root id="archive" name="CompoundInterestCalculator.jar">
       <element id="module-output" name="CompoundInterestCalculator" />
