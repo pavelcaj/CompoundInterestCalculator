@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CompoundInterestCalculator:jar2">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="CompoundInterestCalculator.jar">
+      <element id="module-output" name="CompoundInterestCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Games/flatlaf-3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
